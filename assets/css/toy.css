@@ -1,0 +1,14 @@
+._7kjb:before {
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: fbStoriesPlaceHolderShimmer;
+    animation-timing-function: steps(10, end);
+    background-image: linear-gradient( to right, #F5F6F7 0%, #e9ebee 20%, #F5F6F7 40%, #F5F6F7 100% );
+    background-repeat: no-repeat;
+    background-size: 800px 220px;
+    content: ' ';
+    display: block;
+    height: 100%;
+    position: relative;
+}
