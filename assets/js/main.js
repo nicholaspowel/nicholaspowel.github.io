@@ -120,4 +120,7 @@
 					visibleClass: 'header-visible'
 				});
 
+    // initialize tooltips
+		  $('[data-toggle="tooltip"]').tooltip()
+
 })(jQuery);
