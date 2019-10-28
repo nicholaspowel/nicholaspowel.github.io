@@ -5,8 +5,6 @@ specs.js
 application.js
 _SpecRunner.html
 
-public/
-
 # Created by https://www.gitignore.io/api/osx,linux
 
 ### OSX ###
